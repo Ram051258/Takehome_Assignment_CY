@@ -1,0 +1,45 @@
+{
+  "name": "cypress-page-object-model",
+  "version": "1.0.26",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "cypress.io",
+    "chai",
+    "POM",
+    "framework",
+    "browser",
+    "testing",
+    "end-to-end",
+    "integration",
+    "test",
+    "architecture",
+    "page-object-model",
+    "UAT",
+    "E2E",
+    "angular",
+    "AngularJS",
+    "nextjs",
+    "react",
+    "reactjs",
+    "javascript",
+    "cypress-testing-library",
+    "cypress-npm",
+    "automation",
+    "cypress-api"
+  ],
+  "author": "Ram Sripada",
+  "license": "xyz",
+  "homepage": "",
+  "devDependencies": {
+    "cypress": "^13.13.2",
+    "cypress-failed-log": "^2.10.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}

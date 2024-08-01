@@ -1,0 +1,19 @@
+{
+    "product": {
+      "name": "Phone Cover",
+      "price": "10.00",
+      "quantity": "2",
+      "total": "20.00"
+    },
+    "billingAddress": {
+      "firstName": "Ram",
+      "lastName": "Sri",
+      "email": "ram.sri@gmail.com",
+      "address1": "123 Main St",
+      "city": "Anytown",
+      "postalCode": "12345",
+      "country": "United States",
+      "state": "California"
+    }
+  }
+  

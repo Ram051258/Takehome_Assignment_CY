@@ -1,0 +1,24 @@
+{
+    "valid": {
+      "firstName": "ram",
+      "lastName": "sri",
+      "email": "ram.sri@gmail.com",
+      "password": "ValidPassword1",
+      "confirmPassword": "ValidPassword1"
+    },
+    "invalid": {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "invalid-email-format", 
+      "password": "ValidPassword1",
+      "confirmPassword": "ValidPassword1"
+    },
+    "passwordMismatch": {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "ValidPassword1",
+    "confirmPassword": "DifferentPassword1"
+  }
+  }
+  
